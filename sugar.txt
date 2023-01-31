@@ -1,2 +1,2 @@
-This is another file called sugar
+This is another file called sugar\n
 Sugar is bad for the body
